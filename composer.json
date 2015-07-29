@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "symfony/yaml": "~2.0"
+        "symfony/yaml": "~2.0|~3.0"
     },
     "require-dev": {
         "behat/mink": "~1.5.0",
